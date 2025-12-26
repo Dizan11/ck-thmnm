@@ -1,0 +1,18 @@
+BAI THUC HANH MA NGUON MO
+
+Nhom: 3 nguoi
+
+Nguoi so 1:
+Ho ten: Vo Dang Duong
+Vai tro: Khoi tao repository, merge cac nhanh
+
+Nguoi so 2:
+Ho ten: Tran Phat Dat
+Vai tro: Lam viec tren branch B2
+
+Nguoi so 3:
+Ho ten: Le Van Hoang Duong
+Vai tro: Lam viec tren branch B1
+
+Link GitHub:
+https://github.com/Dizan11/ck-thmnm
